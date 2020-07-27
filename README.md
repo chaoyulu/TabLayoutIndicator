@@ -127,10 +127,10 @@
 
 <center class = "half">
 	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/no_bottom_5dp.png" width = "50%"  height = "300" align = left>
-    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/bottom_5dp.png" width = "50%" height = "300"  align = right>
+    	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/bottom_5dp.png" width = "50%" height = "300"  align = right>
 </center>
 
-
+</br>
 
 
 
@@ -173,12 +173,12 @@
  	android:layout_width="match_parent"
  	android:layout_height="wrap_content"
 	android:background="#FFFFFF"
-    android:elevation="5dp"
-    android:paddingStart="10dp"
-    android:paddingTop="5dp"
-    android:paddingEnd="10dp"
-    app:tabIndicator="@drawable/layer_indicator"
-    app:tabMode="scrollable"
+    	android:elevation="5dp"
+    	android:paddingStart="10dp"
+    	android:paddingTop="5dp"
+    	android:paddingEnd="10dp"
+   	app:tabIndicator="@drawable/layer_indicator"
+   	app:tabMode="scrollable"
 />
 ```
 
