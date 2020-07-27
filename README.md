@@ -371,7 +371,7 @@ activity_main.xml
 
 学会了上面的自定义，那我们就可以做出下面的效果了（忘记在哪个APP里面看到过这个效果了!!!）
 
-![GIF 2020-7-27 星期一 15-01-27](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\GIF 2020-7-27 星期一 15-01-27.gif)
+![扩展效果图](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\gif_preview2.gif)
 
 
 
