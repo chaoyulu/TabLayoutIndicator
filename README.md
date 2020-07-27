@@ -1,4 +1,4 @@
-![效果图](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\preview.gif)
+![效果图](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/preview.gif)
 
 
 
@@ -23,11 +23,11 @@
 
 
 
-![image-20200727114230178](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727114230178.png)
+![image-20200727114230178](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727114230178.png)
 
 
 
-![image-20200727114333311](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727114333311.png)
+![image-20200727114333311](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727114333311.png)
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-![image-20200727114856176](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727114856176.png)
+![image-20200727114856176](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727114856176.png)
 
 `item` 不指定宽高，默认充满被设置`View`，因为不能确定`TabLayout`的`Tab`的宽高，因此不设置 `width` 和`height` 属性。
 
@@ -76,7 +76,7 @@
 
 
 
-![image-20200727115910854](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727115910854.png)
+![image-20200727115910854](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727115910854.png)
 
 
 
@@ -126,8 +126,8 @@
 
 
 <center class = "half">
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\no_bottom_5dp.png" width = "50%"  height = "300" align = left>
-    <img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\bottom_5dp.png" width = "50%" height = "300"  align = right>
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/no_bottom_5dp.png" width = "50%"  height = "300" align = left>
+    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/bottom_5dp.png" width = "50%" height = "300"  align = right>
 </center>
 
 
@@ -188,7 +188,7 @@
 
 来看下效果图
 
-![image-20200727135859395](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727135859395.png)
+![image-20200727135859395](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727135859395.png)
 
 
 
@@ -206,10 +206,10 @@
 
 
 <center class = "half">
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727140450885.png" width = "25%" align = left>
-    <img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727140537908.png" width = "25%"  align = right>
-    <img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727140604889.png" width = "25%" align = left>
-    <img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727141112177.png" width = "25%"  align = right>
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140450885.png" width = "25%" align = left>
+    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140537908.png" width = "25%"  align = right>
+    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140604889.png" width = "25%" align = left>
+    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727141112177.png" width = "25%"  align = right>
 </center>
 
 
@@ -237,8 +237,8 @@ app:tabIndicatorGravity="stretch"
 **app:tabIndicatorFullWidth="true"** : 指示器是否填充宽度
 
 <center>
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727143431874.png" width = "50%" align = "left">
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727143515184.png" width = "50%" align = "right">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143431874.png" width = "50%" align = "left">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143515184.png" width = "50%" align = "right">
 </center>
 
 
@@ -254,9 +254,9 @@ app:tabIndicatorGravity="stretch"
 **为了效果对比明显，使用2个Tab来演示。**
 
 <center>
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727144013059.png" width = "33%" align = "left">
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727144044334.png" width = "33%" align = "center">
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727144111733.png" width = "33%" align = "right">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144013059.png" width = "33%" align = "left">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144044334.png" width = "33%" align = "center">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144111733.png" width = "33%" align = "right">
 </center>
 
 
@@ -272,8 +272,8 @@ app:tabIndicatorGravity="stretch"
 **app:tabUnboundedRipple** : 无边界水波纹，当设置false时，水波纹有边界，为Tab所在的矩形边界
 
 <center>
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727144620613.png" width = "50%" align = "left">
-	<img src = "F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\image-20200727144702865.png" width = "50%" align = "right">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144620613.png" width = "50%" align = "left">
+	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144702865.png" width = "50%" align = "right">
 </center>
 
 
@@ -371,7 +371,7 @@ activity_main.xml
 
 学会了上面的自定义，那我们就可以做出下面的效果了（忘记在哪个APP里面看到过这个效果了!!!）
 
-![扩展效果图](F:\Blog\images\自定义TabLayout底部倒三角Indicaotor\gif_preview2.gif)
+![扩展效果图](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/gif_preview2.gif)
 
 
 
