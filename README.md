@@ -181,17 +181,10 @@
 - stretch - 扩张，拉伸
 
 
-
-<center class = "half">
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140450885.png" width = "25%" align = left>
-    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140537908.png" width = "25%"  align = right>
-    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140604889.png" width = "25%" align = left>
-    <img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727141112177.png" width = "25%"  align = right>
-</center>
-
-
-
-
+    ![20200727140450885](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140450885.png)
+    ![20200727140537908](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140537908.png)
+    ![20200727140604889](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727140604889.png)
+    ![20200727141112177](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727141112177.png)
 
 
 
@@ -213,13 +206,10 @@ app:tabIndicatorGravity="stretch"
 
 **app:tabIndicatorFullWidth="true"** : 指示器是否填充宽度
 
-<center>
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143431874.png" width = "50%" align = "left">
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143515184.png" width = "50%" align = "right">
-</center>
 
 
-
+    ![20200727143431874](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143431874.png)
+    ![20200727143515184](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143515184.png)
 
 
 
@@ -230,11 +220,9 @@ app:tabIndicatorGravity="stretch"
 
 **为了效果对比明显，使用2个Tab来演示。**
 
-<center>
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144013059.png" width = "33%" align = "left">
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144044334.png" width = "33%" align = "center">
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144111733.png" width = "33%" align = "right">
-</center>
+    ![20200727144013059](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144013059.png)
+    ![20200727144044334](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144044334.png)
+    ![20200727144111733](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144111733.png)
 
 
 
@@ -248,13 +236,9 @@ app:tabIndicatorGravity="stretch"
 
 **app:tabUnboundedRipple** : 无边界水波纹，当设置false时，水波纹有边界，为Tab所在的矩形边界
 
-<center>
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144620613.png" width = "50%" align = "left">
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144702865.png" width = "50%" align = "right">
-</center>
 
-
-
+    ![20200727144620613](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144620613.png)
+    ![20200727144702865](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144702865.png)
 
 
 
