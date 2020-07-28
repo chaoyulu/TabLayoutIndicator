@@ -123,40 +123,14 @@
 1. `android:bottom="5dp"` 
 
    设置圆角矩形距离底部5dp，否则矩形底部与正方形底部重合就看不到倒三角的效果了。
-
-
-<center class = "half">
-	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/no_bottom_5dp.png" width = "50%"  height = "300" align = left>
-    	<img src = "https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/bottom_5dp.png" width = "50%" height = "300"  align = right>
-</center>
-
-</br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 2. `android:gravity="bottom|center_horizontal"`
 
    正方形放置在底部，并且水平居中。
 
-
-
 3. ` android:fromDegrees="45" `
 
    旋转的起始角度
-
-   
 
 4. `android:pivotX="50%" android:pivotY="50%"`
 
