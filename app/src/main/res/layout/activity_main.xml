@@ -21,6 +21,7 @@
         app:tabIndicatorFullWidth="false"
         app:tabIndicatorGravity="center"
         app:tabMode="auto"
+        app:tabTextColor=""
         app:tabUnboundedRipple="true" />
 
     <androidx.viewpager.widget.ViewPager
