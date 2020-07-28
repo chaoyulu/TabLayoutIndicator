@@ -255,6 +255,7 @@ app:tabIndicatorGravity="stretch"
 **app:tabTextColor="@color/blue"** :设置未选中标签文字颜色
 
 
+#### 关键代码
 
 layer_indicator.xml 
 
@@ -339,6 +340,7 @@ activity_main.xml
 
 
 
+#### 扩展效果关键代码
 
 
 layer.xml
