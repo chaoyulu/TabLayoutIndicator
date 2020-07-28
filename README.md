@@ -250,6 +250,9 @@ app:tabIndicatorGravity="stretch"
 **app:tabPaddingStart / app:tabPaddingTop / a:tabPaddingEnd /  app:tabPaddingBottom** : 设置Tab上下左右内边距
 
 
+**app:tabSelectedTextColor="@color/white"** : 设置选中标签文字颜色
+
+**app:tabTextColor="@color/blue"** :设置未选中标签文字颜色
 
 
 
