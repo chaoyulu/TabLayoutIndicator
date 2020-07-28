@@ -208,8 +208,8 @@ app:tabIndicatorGravity="stretch"
 
 
 
-    ![20200727143431874](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143431874.png)
-    ![20200727143515184](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143515184.png)
+   ![20200727143431874](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143431874.png)
+   ![20200727143515184](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727143515184.png)
 
 
 
@@ -220,9 +220,9 @@ app:tabIndicatorGravity="stretch"
 
 **为了效果对比明显，使用2个Tab来演示。**
 
-    ![20200727144013059](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144013059.png)
-    ![20200727144044334](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144044334.png)
-    ![20200727144111733](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144111733.png)
+   ![20200727144013059](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144013059.png)
+   ![20200727144044334](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144044334.png)
+   ![20200727144111733](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144111733.png)
 
 
 
@@ -237,8 +237,8 @@ app:tabIndicatorGravity="stretch"
 **app:tabUnboundedRipple** : 无边界水波纹，当设置false时，水波纹有边界，为Tab所在的矩形边界
 
 
-    ![20200727144620613](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144620613.png)
-    ![20200727144702865](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144702865.png)
+   ![20200727144620613](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144620613.png)
+   ![20200727144702865](https://github.com/SmartCyl/TabLayoutIndicator/blob/master/images/image-20200727144702865.png)
 
 
 
